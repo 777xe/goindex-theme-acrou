@@ -207,7 +207,7 @@ export default {
         {
           name: "Aria2",
           icon: this.$cdnpath("images/player/aria2.png"),
-          scheme: 'javascript:alert("暂未实现")',
+          scheme: 'javascript:alert("Not yet implemented")',
         },
         {
           name: "nPlayer",
