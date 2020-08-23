@@ -5,7 +5,7 @@ Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) and
 
 [index.js](https://github.com/xd003/goindex-theme-acrou/blob/master/go2index/index.js) is the content of the Workers script.  
 
-This theme's goindex is currently based on [yanzai/goindex](https://github.com/yanzai/goindex/)
+This theme's goindex is currently based on [yanzai/goindex](https://github.com/yanzai/goindex/) and is a fork of [goindex-acrou](https://github.com/Aicirou/goindex-theme-acrou)
 
 [README](README.md) 
 
@@ -34,7 +34,7 @@ Acrou: [https://oss.achirou.workers.dev/](https://oss.achirou.workers.dev/)
 
 ## Quick Deployment
 
-1. Open https://install.achirou.workers.dev or https://goindex-quick-install.glitch.me  
+1. Open https://goindex-acrou.glitch.me  
 2. Auth and get the code  
 3. Deploy the code to [Cloudflare Workers](https://www.cloudflare.com/)
 
@@ -46,8 +46,6 @@ Acrou: [https://oss.achirou.workers.dev/](https://oss.achirou.workers.dev/)
 4. Get `refresh_token ` with `rclone`
 5. Download `index.js` in https://github.com/Aicirou/goindex-theme-acrou/tree/master/go2index and replace `client_id`,`client_secret`,`refresh_token` for what you just got.
 6. Deploy the code to [Cloudflare Workers](https://www.cloudflare.com/)
-
-> If you write a good article and want to share it with others, please submit Issues and I will post the link here.
 
 ## Options
 
@@ -159,10 +157,6 @@ audio: {
 - Add version detection
 - Optimize search results
 - Optimize page display
-
-## About
-
-At the beginning of this project, it was just to satisfy my personal perception and experience development. When this project reaped the first start, the first fork and the first issues, and then everyone began to make suggestions, I had the power to update. Thank you very much for your support. Now we have version 2.0.
 
 ## Lisense
 
