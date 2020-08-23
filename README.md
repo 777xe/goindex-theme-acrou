@@ -98,7 +98,7 @@ audio: {
   audios: [
     {
       name: "Mojito",
-      artist: "周杰伦",
+      artist: "Jay Chou",
       url: "https://xx.mp3",
       lrc: "https://xx.lrc",
       cover: "https://xx.jpg"
