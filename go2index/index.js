@@ -66,8 +66,6 @@ var authConfig = {
 
 var themeOptions = {
   cdn: "https://cdn.jsdelivr.net/gh/xd003/goindex-theme-acrou@master",
-  // Theme version number
-  version: "2.0.8",
   // Optional default system language:en/zh-chs/zh-cht
   languages: "en",
   render: {
